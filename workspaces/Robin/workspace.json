@@ -1,7 +1,7 @@
 {
   "friendly_name": "Robin",
   "image_src": "robin.png",
-  "description": "AI-Powered Dark Web OSINT Tool",
+  "description": "AI Powered Dark Web OSINT Tool",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
