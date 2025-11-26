@@ -13,11 +13,19 @@
   "require_gpu": false,
   "enabled": true,
   "image_type": "Container",
-  "architecture": [
+"name": "apurvsg/robin:latest",
+"architecture": [
     "amd64"
   ],
-  "compatibility": [
-    "1.17.x"
-  ],
-  "name": "apurvsg/robin:latest"
+   "compatibility": [
+    {
+      "version": "1.17.x",
+      "image": "apurvsg/robin:latest",
+      "uncompressed_size_mb": 2643,
+      "available_tags": [
+        "develop",
+        "1.17.0"
+      ]
+    }
+  ]
 }
