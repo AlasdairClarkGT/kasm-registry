@@ -16,7 +16,7 @@
   "architecture": [
     "amd64"
   ],
-    "compatibility": [
+  "compatibility": [
     "1.17.x"
   ],
   "name": "apurvsg/robin:latest"
