@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'GT Kasm Technologies',
     description: 'The GT store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://alasdairclarkgt.github.io/kasm-registry',
+    listUrl: 'https://alasdairclarkgt.github.io/kasm-registry/',
     contactUrl: 'https://alasdairclarkgt.github.io/kasm-registry/issues',
   },
   reactStrictMode: true,
